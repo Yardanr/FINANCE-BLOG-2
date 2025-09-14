@@ -1,0 +1,204 @@
+[
+  {
+    "id": "nvda-2025-09-01",
+    "title": "NVIDIA: Pricing In AI, But Edge Still Underestimated",
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "sector": "Semiconductors",
+    "date": "2025-09-01",
+    "author": "You",
+    "tags": [
+      "AI",
+      "GPUs",
+      "Moat",
+      "DCF"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop",
+    "summary": "We model a base-case 5Y FCF CAGR of 21% as data center demand normalises; upside persists via inference/edge and software attach.",
+    "valuation": {
+      "method": "DCF",
+      "base": 115.0,
+      "current": 102.3,
+      "upsidePct": 12.4
+    },
+    "content": {
+      "thesis": "AI accelerator demand remains robust, but the debate shifts to sustainability and competition. We think software and networking extend advantage.",
+      "catalysts": [
+        "Next-gen architecture launch",
+        "Hyperscaler capex commentary",
+        "Software monetisation milestones"
+      ],
+      "risks": [
+        "Competition",
+        "Supply chain",
+        "Regulatory"
+      ],
+      "dcf": {
+        "wacc": 10.0,
+        "terminalGrowth": 3.0,
+        "sharesOut": 2450,
+        "baseFcfNextYr": 29000,
+        "fcfCagr5y": 21.0,
+        "notes": "Illustrative figures."
+      },
+      "multiples": {
+        "peers": [
+          {
+            "name": "AMD",
+            "ticker": "AMD",
+            "metric": "EV/EBITDA",
+            "value": 18.2
+          },
+          {
+            "name": "Broadcom",
+            "ticker": "AVGO",
+            "metric": "EV/EBITDA",
+            "value": 17.1
+          }
+        ],
+        "targetMultipleNote": "Premium sustained by growth and ecosystem."
+      },
+      "quickMetrics": [
+        {
+          "label": "Revenue (TTM)",
+          "value": "$80.3B"
+        },
+        {
+          "label": "Gross Margin",
+          "value": "73%"
+        },
+        {
+          "label": "Net Cash/(Debt)",
+          "value": "$+5.2B"
+        }
+      ],
+      "links": [
+        {
+          "label": "IR Site",
+          "url": "https://investor.nvidia.com"
+        },
+        {
+          "label": "10-K",
+          "url": "https://www.sec.gov/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ulvr-2025-08-15",
+    "title": "Unilever: Mix Shift Matters More Than Margins",
+    "ticker": "ULVR.L",
+    "company": "Unilever plc",
+    "sector": "Consumer Staples",
+    "date": "2025-08-15",
+    "author": "You",
+    "tags": [
+      "FMCG",
+      "Brand Power",
+      "Multiples"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229?q=80&w=1200&auto=format&fit=crop",
+    "summary": "Category growth and premiumisation drive mid-single-digit organic growth; re-rating possible if execution sustains.",
+    "valuation": {
+      "method": "Multiples",
+      "base": 47.0,
+      "current": 41.2,
+      "upsidePct": 14.1
+    },
+    "content": {
+      "thesis": "Portfolio pruning + premiumisation underpin steady EPS compounding.",
+      "risks": [
+        "Private label",
+        "FX",
+        "EM demand"
+      ],
+      "multiples": {
+        "peers": [
+          {
+            "name": "P&G",
+            "ticker": "PG",
+            "metric": "P/E",
+            "value": 24.3
+          },
+          {
+            "name": "Nestl\u00e9",
+            "ticker": "NESN",
+            "metric": "P/E",
+            "value": 22.1
+          }
+        ],
+        "targetMultipleNote": "Assign 20\u201321x NTM EPS on improved mix and governance."
+      },
+      "quickMetrics": [
+        {
+          "label": "Organic Growth (FY)",
+          "value": "6.2%"
+        },
+        {
+          "label": "Op Margin",
+          "value": "17.5%"
+        }
+      ],
+      "links": [
+        {
+          "label": "Annual Report",
+          "url": "https://www.unilever.com"
+        }
+      ],
+      "dcf": {
+        "wacc": 8.2,
+        "terminalGrowth": 2.0,
+        "sharesOut": 2540,
+        "baseFcfNextYr": 7800,
+        "fcfCagr5y": 6.0
+      }
+    }
+  },
+  {
+    "id": "uk-banks-2025-07-10",
+    "title": "UK Banks: NIM Gravity and Fee Futures",
+    "ticker": "Sector Note",
+    "company": "\u2014",
+    "sector": "Banks",
+    "date": "2025-07-10",
+    "author": "You",
+    "tags": [
+      "Macro",
+      "Rates",
+      "Credit",
+      "Sector"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?q=80&w=1200&auto=format&fit=crop",
+    "summary": "As rates drift lower, NIM compresses; fee income and cost discipline separate winners.",
+    "valuation": {
+      "method": "Other",
+      "base": 0,
+      "current": 0,
+      "upsidePct": 0
+    },
+    "content": {
+      "thesis": "Prefer fee-light, deposit-rich franchises with conservative provisioning.",
+      "risks": [
+        "Credit cycle",
+        "Regulation",
+        "Competition"
+      ],
+      "quickMetrics": [
+        {
+          "label": "Top Pick",
+          "value": "LLOY"
+        },
+        {
+          "label": "Runner-Up",
+          "value": "BARC"
+        }
+      ],
+      "links": [
+        {
+          "label": "BoE data",
+          "url": "https://www.bankofengland.co.uk/"
+        }
+      ]
+    }
+  }
+]
